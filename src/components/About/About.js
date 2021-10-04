@@ -9,7 +9,7 @@ const About = () => {
             </div>
             <div className='d-flex p-5'>
                 <div className='w-50 me-2'>
-                    <img width="550px" src="https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/b/9e/b9ef4fca-d27f-5ce7-a4e8-c1a7a784035e/5e29fa8f40a8d.image.jpg" alt="" />
+                    <img width="550px" src="https://swarthmorephoenix.com/wp-content/uploads/2019/11/ARTS_DOUGVARONCHOREO_Cylla-von-Tiedemann.jpg" alt="" />
                 </div>
                 <div>
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXsoZifXk46U8KDjb8O91lfP4j7H3kc7QM5Q&usqp=CAU" alt="" />
