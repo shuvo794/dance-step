@@ -17,7 +17,7 @@ const JoinClass = () => {
             <Card.Body>
                 <Card.Title> <h3>Form: {join.form}</h3> </Card.Title>
                 <Card.Text>
-                    <h5>Course Fee: <span className="text-warning">$ {join.cost}</span></h5>
+                    <h5 className="text-black">Course Fee: <span className="text-warning">$ {join.cost}</span></h5>
                 </Card.Text>
                 <Card.Text>
                     {join.instruction}
